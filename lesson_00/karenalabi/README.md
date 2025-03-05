@@ -53,7 +53,7 @@ I’m constantly learning and currently diving into learning new things. Since I
 
 Outifts 
 
-<img src="Images/allblackoutfitpic.jpg">
+<img src="Images/allblackoutfitpic.jpg" height=300/> 
 
 <img src="Images/outfitpic2.jpg">
 
