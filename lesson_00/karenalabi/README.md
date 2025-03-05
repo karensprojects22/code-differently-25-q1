@@ -48,7 +48,7 @@ I’m constantly learning and currently diving into learning new things. Since I
 
 ### Photo Gallery
 
-<img src="Images/Professional Photo1.jpg height=500">
+<img src="Images/Professional Photo1.jpg" height=500/>
 
 
 Outifts 
