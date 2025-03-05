@@ -48,31 +48,31 @@ I’m constantly learning and currently diving into learning new things. Since I
 
 ### Photo Gallery
 
-<img src="Images/Professional Photo1.jpg">
+<img src="Images/Professional Photo1.jpg height=500">
 
 
 Outifts 
 
-<img src="Images/allblackoutfitpic.jpg" height=300/> 
+<img src="Images/allblackoutfitpic.jpg" height=500/> 
 
-<img src="Images/outfitpic2.jpg">
+<img src="Images/outfitpic2.jpg" height=500/>
 
-<img src="Images/uniqlofitpic.jpg">
+<img src="Images/uniqlofitpic.jpg" height=500/>
 
-<img src="Images/outfitpic1.jpg">
+<img src="Images/outfitpic1.jpg" height=500/>
 
-<img src="Images/styledoutfit1.jpg">
+<img src="Images/styledoutfit1.jpg" height=500/>
 
 
 Travel 
 
-<img src="Images/plane pic.jpg">
+<img src="Images/plane pic.jpg" height=500/>
 
-<img src="Images/airport pic.jpg">
+<img src="Images/airport pic.jpg" height=500/>
 
-<img src="Images/eiffel tower.jpg">
+<img src="Images/eiffel tower.jpg" height=500/>
 
-<img src="Images/parisolympics.jpg">
+<img src="Images/parisolympics.jpg" height=500/>
 
-<img src="Images/prague1.jpg">
+<img src="Images/prague1.jpg" height=500/>
 
